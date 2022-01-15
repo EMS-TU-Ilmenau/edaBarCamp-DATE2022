@@ -106,7 +106,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/test-miro.html"
+                 "value":"test-miro.html"
                 }],
          "type":"tilelayer",
          "visible":true,
