@@ -1,7 +1,11 @@
 {"session_1":
   {
     "green_room": "https://miro.com/app/live-embed/o9J_l88GgL4=/?moveToViewport=-416,-242,831,482",
-    "red_room": "https://www.spiegel.de"
+    "red_room": "https://www.spiegel.de",
+    "blue_room": "https://www.spiegel.de",
+    "orange_room": "https://www.spiegel.de",
+    "yellow_room": "https://www.spiegel.de",
+    "violett_room": "https://www.spiegel.de"
   },
   "session_2":
   {

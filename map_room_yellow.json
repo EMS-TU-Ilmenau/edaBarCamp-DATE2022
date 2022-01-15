@@ -101,12 +101,17 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"testmap bonfire"
+                 "value":"dateBarCamp_room_yellow"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.fem.tu-ilmenau.de"
                 }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"miro-boards\/html\/green_room.html"
+                 "value":"miro-boards\/html\/yellow_room.html"
                 }],
          "type":"tilelayer",
          "visible":true,
