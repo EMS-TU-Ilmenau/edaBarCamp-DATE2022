@@ -99,9 +99,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"testroom bonfire"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workadventu.re"
+                 "value":"https:\/\/miro.com\/app\/board\/o9J_lYKvE_g=\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -184,7 +189,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
