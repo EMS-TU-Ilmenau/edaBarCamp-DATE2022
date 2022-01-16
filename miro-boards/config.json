@@ -1,18 +1,78 @@
 {
+  "trail_agenda_preparation":
+  {
+    "feedback": "https://miro.com/app/live-embed/uXjVOVExBGs=/?moveToViewport=-4180,-16971,18422,11540",
+    "session_board": "https://miro.com/app/live-embed/uXjVOVE0Wz0=/?moveToViewport=-11217,-9066,10110,4900"
+  },
+  "trail_agenda_proposal":
+  {
+    "feedback": "https://miro.com/app/live-embed/uXjVOVExBGs=/?moveToViewport=-4180,-16971,18422,11540",
+    "session_board": "https://miro.com/app/live-embed/uXjVOVE0Wz0=/?moveToViewport=-767,-9366,11010,4950"
+  },
+  "trail_agenda_final":
+  {
+    "feedback": "https://miro.com/app/live-embed/uXjVOVExBGs=/?moveToViewport=-4180,-16971,18422,11540",
+    "session_board": "https://miro.com/app/live-embed/uXjVOVE0Wz0=/?moveToViewport=-11217,-4216,8960,6199"
+  },
+  "date_agenda_preparation":
+  {
+    "feedback": "https://miro.com/app/live-embed/uXjVOVEjnq0=/?moveToViewport=-4180,-16971,18422,11540",
+    "session_board": "https://miro.com/app/live-embed/uXjVOVGCkIQ=/?moveToViewport=-11217,-9066,10110,4900"
+  },
+  "date_agenda_proposal":
+  {
+    "feedback": "https://miro.com/app/live-embed/uXjVOVEjnq0=/?moveToViewport=-4180,-16971,18422,11540",
+    "session_board": "https://miro.com/app/live-embed/uXjVOVGCkIQ=/?moveToViewport=-767,-9366,11010,4950"
+  },
+  "date_agenda_final":
+  {
+    "feedback": "https://miro.com/app/live-embed/uXjVOVEjnq0=/?moveToViewport=-4180,-16971,18422,11540",
+    "session_board": "https://miro.com/app/live-embed/uXjVOVGCkIQ=/?moveToViewport=-11217,-4216,8960,6199"
+  },
   "session_1":
   {
-    "arena": "https://www.spiegel.de",
-    "green_room": "https://miro.com/app/live-embed/o9J_l88GgL4=/?moveToViewport=-416,-242,831,482",
-    "red_room": "https://www.spiegel.de",
-    "blue_room": "https://www.spiegel.de",
-    "orange_room": "https://www.spiegel.de",
-    "yellow_room": "https://www.spiegel.de",
-    "violett_room": "https://www.spiegel.de"
+    "green_room": "https://miro.com/app/live-embed/uXjVOVE2XG4=/?moveToViewport=-615,-296,1228,591",
+    "red_room": "https://miro.com/app/live-embed/uXjVOVEorho=/?moveToViewport=-615,-296,1228,591",
+    "blue_room": "https://miro.com/app/live-embed/uXjVOVE3FHU=/?moveToViewport=-615,-296,1228,591",
+    "orange_room": "https://miro.com/app/live-embed/uXjVOVE0LLU=/?moveToViewport=-615,-296,1228,591",
+    "yellow_room": "https://miro.com/app/live-embed/uXjVOVE0LCU=/?moveToViewport=-615,-296,1228,591",
+    "violett_room": "https://miro.com/app/live-embed/uXjVOVE0Lec=/?moveToViewport=-615,-296,1228,591"
   },
   "session_2":
   {
-    "green_room": "https://www.spiegel.de",
-    "red_room": "https://www.spiegel.de"
+    "green_room": "https://miro.com/app/live-embed/uXjVOVE2XHY=/?moveToViewport=-615,-296,1228,591",
+    "red_room": "https://miro.com/app/live-embed/uXjVOVE2TKo=/?moveToViewport=-615,-296,1228,591",
+    "blue_room": "https://miro.com/app/live-embed/uXjVOVE3FAM=/?moveToViewport=-615,-296,1228,591",
+    "orange_room": "https://miro.com/app/live-embed/uXjVOVE0LXI=/?moveToViewport=-615,-296,1228,591",
+    "yellow_room": "https://miro.com/app/live-embed/uXjVOVE0LD0=/?moveToViewport=-615,-296,1228,591",
+    "violett_room": "https://miro.com/app/live-embed/uXjVOVE0Le8=/?moveToViewport=-615,-296,1228,591"
+  },
+  "session_3":
+  {
+    "green_room": "https://miro.com/app/live-embed/uXjVOVE2XA8=/?moveToViewport=-615,-296,1228,591",
+    "red_room": "https://miro.com/app/live-embed/uXjVOVE2TSc=/?moveToViewport=-615,-296,1228,591",
+    "blue_room": "https://miro.com/app/live-embed/uXjVOVE3FJo=/?moveToViewport=-615,-296,1228,591",
+    "orange_room": "https://miro.com/app/live-embed/uXjVOVE0LQI=/?moveToViewport=-615,-296,1228,591",
+    "yellow_room": "https://miro.com/app/live-embed/uXjVOVE0LNk=/?moveToViewport=-615,-296,1228,591",
+    "violett_room": "https://miro.com/app/live-embed/uXjVOVE0LZU=/?moveToViewport=-615,-296,1228,591"
+  },
+  "session_4":
+  {
+    "green_room": "https://miro.com/app/live-embed/uXjVOVE2XBE=/?moveToViewport=-615,-296,1228,591",
+    "red_room": "https://miro.com/app/live-embed/uXjVOVE2TTs=/?moveToViewport=-615,-296,1228,591",
+    "blue_room": "https://miro.com/app/live-embed/uXjVOVE3FUE=/?moveToViewport=-615,-296,1228,591",
+    "orange_room": "https://miro.com/app/live-embed/uXjVOVE0LRE=/?moveToViewport=-615,-296,1228,591",
+    "yellow_room": "https://miro.com/app/live-embed/uXjVOVE0LPc=/?moveToViewport=-615,-296,1228,591",
+    "violett_room": "https://miro.com/app/live-embed/uXjVOVE0Lac=/?moveToViewport=-615,-296,1228,591"
+  },
+  "session_5":
+  {
+    "green_room": "https://miro.com/app/live-embed/uXjVOVE2XCc=/?moveToViewport=-615,-296,1228,591",
+    "red_room": "https://miro.com/app/live-embed/uXjVOVE2Tag=/?moveToViewport=-615,-296,1228,591",
+    "blue_room": "https://miro.com/app/live-embed/uXjVOVE3FVM=/?moveToViewport=-615,-296,1228,591",
+    "orange_room": "https://miro.com/app/live-embed/uXjVOVE0LTg=/?moveToViewport=-615,-296,1228,591",
+    "yellow_room": "https://miro.com/app/live-embed/uXjVOVE0LK0=/?moveToViewport=-615,-296,1228,591",
+    "violett_room": "https://miro.com/app/live-embed/uXjVOVE0LaE=/?moveToViewport=-615,-296,1228,591"
   }
 
 
