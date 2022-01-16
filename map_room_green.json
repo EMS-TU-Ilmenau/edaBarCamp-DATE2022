@@ -24,7 +24,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"arena.json"
+                 "value":"arena.json#enterFromRoomGreen"
                 }],
          "type":"tilelayer",
          "visible":true,

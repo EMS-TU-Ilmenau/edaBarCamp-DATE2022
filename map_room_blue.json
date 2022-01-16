@@ -141,7 +141,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"arena.json"
+                 "value":"arena.json#enterFromRoomBlue"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -141,7 +141,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"arena.json"
+                 "value":"arena.json#enterFromRoomOrange"
                 }],
          "type":"tilelayer",
          "visible":true,

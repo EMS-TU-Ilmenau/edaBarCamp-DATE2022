@@ -159,7 +159,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"arena.json"
+                 "value":"arena.json#enterFromRoomViolett"
                 }],
          "type":"tilelayer",
          "visible":true,
