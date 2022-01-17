@@ -1,8 +1,18 @@
 <html>
 <head>
 <meta http-equiv="cache-control" content="no-cache" />
+<script src="https://play.workadventu.re/iframe_api.js"></script>
 </head>
 <body>
-<iframe width="100%" height="100%" src="https://cloud.tu-ilmenau.de/s/kqZeDeLcToigTxr" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+    <!--<iframe width="100%" height="100%" src="https://cloud.tu-ilmenau.de/s/kqZeDeLcToigTxr" frameBorder="0" scrolling="no" allowFullScreen></iframe>-->
+    <script>
+        WA.ui.openPopup("popupRectangle", 'This is an imporant message!', [{
+        label: "Got it!",
+        className: "primary",
+        callback: (popup) => {
+            popup.close();
+        }
+    }]);
+    </script>
 </body>
 </html>
