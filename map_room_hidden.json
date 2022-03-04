@@ -358,15 +358,15 @@
          "transparentcolor":"#ff00ff"
         }, 
         {
-         "columns":9,
+         "columns":8,
          "firstgid":1121,
          "image":"mapUtilities.png",
-         "imageheight":34,
-         "imagewidth":306,
+         "imageheight":32,
+         "imagewidth":288,
          "margin":1,
          "name":"mapUtilities",
          "spacing":2,
-         "tilecount":9,
+         "tilecount":1,
          "tileheight":32,
          "tiles":[
                 {
