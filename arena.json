@@ -453,11 +453,6 @@
                  "name":"jitsiUrl",
                  "type":"string",
                  "value":"jitsi.fem.tu-ilmenau.de"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"miro-boards\/html\/session_board.html"
                 }],
          "type":"tilelayer",
          "visible":true,
