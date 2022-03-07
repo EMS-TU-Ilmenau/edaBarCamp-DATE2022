@@ -11,7 +11,7 @@ WA.room.onEnterLayer('topicSubmission').subscribe(() => {
     setTimeout(() => {
         // later
         triggerMessage.remove();
-    }, 20000);
+    }, 10000);
 })
 
 WA.room.onEnterLayer('proposalCardDownload').subscribe(() => {
@@ -25,5 +25,5 @@ WA.room.onEnterLayer('proposalCardDownload').subscribe(() => {
     setTimeout(() => {
         // later
         triggerMessage.remove();
-    }, 20000);
+    }, 10000);
 })
