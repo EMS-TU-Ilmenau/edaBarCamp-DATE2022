@@ -1,9 +1,9 @@
 
-triggerMessage = null;
+let triggerMessage = null;
 
 // Messages for proposal cards
 WA.room.onEnterLayer('topicSubmission').subscribe(() => {
-    if (triggerMessage != null) {
+    if (triggerMessage !== null) {
         triggerMessage.remove();
     }
 
@@ -22,7 +22,7 @@ WA.room.onEnterLayer('topicSubmission').subscribe(() => {
 })
 
 WA.room.onEnterLayer('proposalCardDownload').subscribe(() => {
-    if (triggerMessage != null) {
+    if (triggerMessage !== null) {
         triggerMessage.remove();
     }
 
