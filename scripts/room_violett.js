@@ -2,7 +2,7 @@ WA.room.onEnterLayer('openBoard').subscribe(() => {
     const triggerMessage = WA.ui.displayActionMessage({
         message: "Press Space or click here to open the board for this session!",
         callback: () => {
-            WA.nav.openTab("https://ems-tu-ilmenau.github.io/edaBarCamp-DATE2022/miro-boards/html/green_room.html");
+            WA.nav.openTab("https://ems-tu-ilmenau.github.io/edaBarCamp-DATE2022/miro-boards/html/violett_room.html");
         }
     });
 
