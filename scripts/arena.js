@@ -38,3 +38,41 @@ WA.room.onEnterLayer('proposalCardDownload').subscribe(() => {
         triggerMessage.remove();
     }, 10000);
 })
+
+WA.room.onEnterLayer('jitsiCoffee1C').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "Press Space or click here to open the Miro board for this coffee table",
+        callback: () => {
+            WA.nav.openTab("https://ems-tu-ilmenau.github.io/edaBarCamp-DATE2022/static_html/coffee1-miro.html");
+        }
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
+
+
+
+WA.room.onEnterLayer('jitsiCoffee2C').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "Press Space or click here to open the Miro board for this coffee table",
+        callback: () => {
+            WA.nav.openTab("https://ems-tu-ilmenau.github.io/edaBarCamp-DATE2022/static_html/coffee2-miro.html");
+        }
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
