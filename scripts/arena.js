@@ -147,7 +147,7 @@ WA.room.onEnterLayer('popupMrBrowser').subscribe(() => {
     }
 
     triggerMessage = WA.ui.displayActionMessage({
-        message: "Oh. I hope, I don't use one of those.",
+        message: "Oh. I hope, I don't use one of those browsers.",
         callback: () => {}
     });
 
