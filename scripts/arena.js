@@ -84,6 +84,7 @@ WA.room.onEnterLayer('popUpMrCoffee').subscribe(() => {
 
     triggerMessage = WA.ui.displayActionMessage({
         message: "What's all this churning and bubbling, you call that a radar screen? Now that I have my coffee, I'm ready to watch radar. Where is it?",
+        callback: () => void
     });
 
     setTimeout(() => {
@@ -99,6 +100,7 @@ WA.room.onEnterLayer('popUpMrRadar').subscribe(() => {
 
     triggerMessage = WA.ui.displayActionMessage({
         message: "I always have coffee when I watch MrRadar!",
+        callback: () => void
     });
 
     setTimeout(() => {
@@ -114,6 +116,7 @@ WA.room.onEnterLayer('popUpMrMarmelade').subscribe(() => {
 
     triggerMessage = WA.ui.displayActionMessage({
         message: "I hope nobody JAMs the radar. (strawberry jam)",
+        callback: () => void
     });
 
     setTimeout(() => {
@@ -129,6 +132,7 @@ WA.room.onEnterLayer('popUpMrTime').subscribe(() => {
 
     triggerMessage = WA.ui.displayActionMessage({
         message: "Are you on time? If you don't know, check the schedule at the session wall.",
+        callback: () => void
     });
 
     setTimeout(() => {
@@ -144,6 +148,7 @@ WA.room.onEnterLayer('popUpMrBrowser').subscribe(() => {
 
     triggerMessage = WA.ui.displayActionMessage({
         message: "Oh. I hope, I don't use one of those.",
+        callback: () => void
     });
 
     setTimeout(() => {
