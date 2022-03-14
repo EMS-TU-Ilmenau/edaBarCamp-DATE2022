@@ -121,3 +121,33 @@ WA.room.onEnterLayer('popUpMrMarmelade').subscribe(() => {
         triggerMessage.remove();
     }, 10000);
 })
+
+WA.room.onEnterLayer('popUpMrTime').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "Are you on time? If you don't know, check the schedule at the session wall.",
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
+
+WA.room.onEnterLayer('popUpMrBrowser').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "Oh. I hope, I don't use one of those.",
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
