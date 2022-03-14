@@ -156,3 +156,19 @@ WA.room.onEnterLayer('popupMrBrowser').subscribe(() => {
         triggerMessage.remove();
     }, 10000);
 })
+
+WA.room.onEnterLayer('popupMrInfo').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "I don't know where I am. I should check the tutorial sign to the left.",
+        callback: () => {}
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
