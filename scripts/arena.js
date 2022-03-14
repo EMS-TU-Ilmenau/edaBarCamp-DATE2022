@@ -76,3 +76,48 @@ WA.room.onEnterLayer('jitsiCoffee2C').subscribe(() => {
         triggerMessage.remove();
     }, 10000);
 })
+
+WA.room.onEnterLayer('popUpMrCoffee').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "What's all this churning and bubbling, you call that a radar screen? Now that I have my coffee, I'm ready to watch radar. Where is it?",
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
+
+WA.room.onEnterLayer('popUpMrRadar').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "I always have coffee when I watch MrRadar!",
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
+
+WA.room.onEnterLayer('popUpMrMarmelade').subscribe(() => {
+    if (triggerMessage !== null) {
+        triggerMessage.remove();
+    }
+
+    triggerMessage = WA.ui.displayActionMessage({
+        message: "I hope nobody JAMs the radar. (strawberry jam)",
+    });
+
+    setTimeout(() => {
+        // later
+        triggerMessage.remove();
+    }, 10000);
+})
