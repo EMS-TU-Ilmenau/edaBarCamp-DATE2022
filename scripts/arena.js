@@ -77,7 +77,7 @@ WA.room.onEnterLayer('jitsiCoffee2C').subscribe(() => {
     }, 10000);
 })
 
-WA.room.onEnterLayer('popUpMrCoffee').subscribe(() => {
+WA.room.onEnterLayer('popupMrCoffee').subscribe(() => {
     if (triggerMessage !== null) {
         triggerMessage.remove();
     }
@@ -93,7 +93,7 @@ WA.room.onEnterLayer('popUpMrCoffee').subscribe(() => {
     }, 10000);
 })
 
-WA.room.onEnterLayer('popUpMrRadar').subscribe(() => {
+WA.room.onEnterLayer('popupMrRadar').subscribe(() => {
     if (triggerMessage !== null) {
         triggerMessage.remove();
     }
@@ -109,7 +109,7 @@ WA.room.onEnterLayer('popUpMrRadar').subscribe(() => {
     }, 10000);
 })
 
-WA.room.onEnterLayer('popUpMrMarmelade').subscribe(() => {
+WA.room.onEnterLayer('popupMrMarmelade').subscribe(() => {
     if (triggerMessage !== null) {
         triggerMessage.remove();
     }
@@ -125,7 +125,7 @@ WA.room.onEnterLayer('popUpMrMarmelade').subscribe(() => {
     }, 10000);
 })
 
-WA.room.onEnterLayer('popUpMrTime').subscribe(() => {
+WA.room.onEnterLayer('popupMrTime').subscribe(() => {
     if (triggerMessage !== null) {
         triggerMessage.remove();
     }
@@ -141,7 +141,7 @@ WA.room.onEnterLayer('popUpMrTime').subscribe(() => {
     }, 10000);
 })
 
-WA.room.onEnterLayer('popUpMrBrowser').subscribe(() => {
+WA.room.onEnterLayer('popupMrBrowser').subscribe(() => {
     if (triggerMessage !== null) {
         triggerMessage.remove();
     }
