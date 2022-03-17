@@ -434,6 +434,12 @@
          "id":52,
          "name":"InfoAction_Tutorial",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"static_html\/tutorial.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":94,
@@ -703,7 +709,7 @@
          "height":85,
          "id":23,
          "name":"TableBelowPlayer",
-         "opacity":1,
+         "opacity":0.97,
          "type":"tilelayer",
          "visible":true,
          "width":94,
