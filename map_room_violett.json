@@ -184,7 +184,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"arena.json#enterFromRoomViolett"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/arena#enterFromRoomViolett"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -309,7 +309,7 @@
          "value":"scripts\/room_violett.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"2021.03.23",
  "tileheight":32,
  "tilesets":[
         {
@@ -378,6 +378,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":27
 }
