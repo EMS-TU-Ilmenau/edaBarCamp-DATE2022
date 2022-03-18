@@ -166,7 +166,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/arena#enterFromRoomRed"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/arena.json#enterFromRoomRed"
                 }],
          "type":"tilelayer",
          "visible":true,
