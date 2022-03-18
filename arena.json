@@ -168,7 +168,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/room_orange"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/orange_room"
                 }],
          "type":"tilelayer",
          "visible":true,
