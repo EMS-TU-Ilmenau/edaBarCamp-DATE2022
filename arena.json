@@ -150,7 +150,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map_room_green.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/green_room"
                 }],
          "type":"tilelayer",
          "visible":true,
