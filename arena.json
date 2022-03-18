@@ -132,7 +132,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map_room_blue.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/blue_room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map_room_orange.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/room_orange"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,7 +186,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map_room_violett.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/violett_room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -204,7 +204,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map_room_yellow.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/yellow_room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,7 +222,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map_room_red.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/date\/barcamp\/red_room"
                 }],
          "type":"tilelayer",
          "visible":true,
