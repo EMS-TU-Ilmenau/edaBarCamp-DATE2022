@@ -114,6 +114,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"dateBarCamp_room_blue"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -304,7 +309,7 @@
          "value":"scripts\/room_blue.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"2021.03.23",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -362,17 +367,17 @@
          "columns":12,
          "firstgid":1355,
          "image":"tiles\/spritesheet_kara_take_2.png",
-         "imageheight":384,
+         "imageheight":448,
          "imagewidth":384,
          "margin":0,
          "name":"spritesheet_kara_take_2",
          "spacing":0,
-         "tilecount":144,
+         "tilecount":168,
          "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":27
 }
